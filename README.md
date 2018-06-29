@@ -10,19 +10,34 @@ Total Market Cap: 500,000,000,000 KAR
 
 Reserved: 168,000,000,000 KAR
 
-Presale: 20,000,000,000 KAR [Whitelist]
-
-Public Sale: Balance from presale
+Foundation: 332,000,000,000 KAR
 
 Group Cap: 25,000,000 [buy-in per group]
 
-Soft Cap: 18,000,000,000 KAR [$25,000,000]
+Soft Cap: 18,000,000,000 KAR 
 
-Hard Cap: 50,000,000,000 KAR [$70,000,000]
+Hard Cap: 50,000,000,000 KAR 
 
-Sale: 0.0014 ETH or equivalent altcoin or Fiat
+Sky Cap: Total sold on last day or sold out
 
-Sale Length: 12 Hr/TBD [2018]
+1 Token Cost: 0.0025 ETH or equivalent altcoin or Fiat
+________________________________________________________________________________________
+Pre-Sale Info:
+
+Pre-Sale Date: TBD [2018]
+
+Pre-Sale Length: 12 Hr/TBD [2018]
+
+Presale: 20,000,000,000 KAR [Whitelist]
+________________________________________________________________________________________
+Public Sale Info:
+
+Public Sale: Remaing balance from presale token sale
+
+Public Sale Date: TBD [2018]
+
+Public Sale Length: 90 Days [2018}
+
 ****************************************
 
 OCP Master KT Wallet: <Release_TBD>
