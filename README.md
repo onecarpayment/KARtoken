@@ -4,7 +4,11 @@ KarToken- is a utility digital instrument used to facilitate transactions, recor
 KarTokens are also used to facilitate debt purchases, document exchange, transportation and/or future services for products and/or services rendered to it's OCP members and/or public or private parties. KarToken[s] can been held for definite period of time. The value of KarToken[s] may decrease/ increase over a period of time, that value may come at an unknown point in time.
 
 ********************************************
-OneCarPayment.com “Kar” “KarToken” sale info:
+OneCarPayment.com Token sale info:
+
+Token Name: "KAR" Short/ Ticker, "KARtoken" Long
+
+Token Supply: 1 Trillion KAR "Series A"
 
 Total Market Cap: 500,000,000,000 KAR
 
@@ -12,7 +16,7 @@ Reserved: 168,000,000,000 KAR
 
 Foundation: 332,000,000,000 KAR
 
-Group Cap: 25,000,000 [buy-in per group]
+Group Cap: 25,000,000 [buy-in per group: 3 or more]
 
 Soft Cap: 18,000,000,000 KAR 
 
@@ -37,6 +41,10 @@ Public Sale: Remaing balance from presale token sale
 Public Sale Date: TBD [2018]
 
 Public Sale Length: 90 Days [2018}
+________________________________________________________________________________________
+Investor / KYC Info:
+
+investor at onecarpayment dot com
 
 ****************************************
 
